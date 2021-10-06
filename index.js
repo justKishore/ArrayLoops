@@ -72,7 +72,7 @@ console.log(cityList);
  T: Tokyo
 */
 
-// For off (returns value of array, map, set and Arguments object)
+// For of (returns value of array, map, set and Arguments object)
 for(var value of fruits){
     console.log("Value is: "+value);
     /* op:
